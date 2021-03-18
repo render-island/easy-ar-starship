@@ -1,0 +1,111 @@
+# compiler: R8
+# compiler_version: 1.4.77
+# min_api: 28
+com.google.a.a.a -> b.a.a.a.a:
+com.google.a.a.b -> b.a.a.a.b:
+com.google.a.a.d -> b.a.a.a.c:
+com.google.a.b.a.a.a.a -> b.a.a.b.a.a.a.a:
+com.google.a.b.a.a.a.b -> b.a.a.b.a.a.a.b:
+com.google.a.b.a.a.a.c -> b.a.a.b.a.a.a.c:
+com.google.a.b.a.a.a.d -> b.a.a.b.a.a.a.d:
+com.google.a.b.a.a.a.e -> b.a.a.b.a.a.a.e:
+com.google.androidgamesdk.ChoreographerCallback$1 -> com.google.androidgamesdk.a:
+com.google.androidgamesdk.SwappyDisplayManager$1 -> com.google.androidgamesdk.b:
+com.google.androidgamesdk.SwappyDisplayManager$a -> com.google.androidgamesdk.SwappyDisplayManager$a:
+    com.google.androidgamesdk.SwappyDisplayManager b -> d
+    java.util.concurrent.locks.Condition d -> c
+    java.util.concurrent.locks.Lock c -> b
+com.google.ar.core.R$id -> com.google.ar.core.R$a:
+com.google.ar.core.R$layout -> com.google.ar.core.R$b:
+com.google.ar.core.R$string -> com.google.ar.core.R$c:
+com.google.ar.core.Session$a -> com.google.ar.core.Session$a:
+    com.google.ar.core.Session$a i -> z
+    com.google.ar.core.Session$a r -> i
+    com.google.ar.core.Session$a p -> g
+    com.google.ar.core.Session$a n -> e
+    com.google.ar.core.Session$a y -> q
+    com.google.ar.core.Session$a w -> o
+    com.google.ar.core.Session$a u -> m
+    com.google.ar.core.Session$a[] D -> A
+    com.google.ar.core.Session$a t -> k
+    com.google.ar.core.Session$a h -> y
+    com.google.ar.core.Session$a f -> w
+    com.google.ar.core.Session$a C -> u
+    com.google.ar.core.Session$a A -> s
+    java.lang.Class k -> C
+    java.lang.String l -> D
+    com.google.ar.core.Session$a q -> h
+    com.google.ar.core.Session$a o -> f
+    com.google.ar.core.Session$a m -> d
+    int j -> B
+    com.google.ar.core.Session$a x -> p
+    com.google.ar.core.Session$a v -> n
+    com.google.ar.core.Session$a d -> l
+    com.google.ar.core.Session$a s -> j
+    com.google.ar.core.Session$a g -> x
+    com.google.ar.core.Session$a e -> v
+    com.google.ar.core.Session$a B -> t
+    com.google.ar.core.Session$a z -> r
+com.google.ar.core.Session$b -> com.google.ar.core.Session$b:
+    com.google.ar.core.Session$b[] c -> b
+    int b -> c
+com.google.ar.core.Session$c -> com.google.ar.core.Session$c:
+    com.google.ar.core.Session$c a -> b
+    com.google.ar.core.Session$c d -> c
+    com.google.ar.core.Session$c c -> a
+    java.lang.Class h -> i
+    int b -> h
+    com.google.ar.core.Session$c[] i -> g
+    com.google.ar.core.Session$c g -> f
+    com.google.ar.core.Session$c e -> d
+    com.google.ar.core.Session$c f -> e
+com.google.ar.core.aa -> com.google.ar.core.b:
+com.google.ar.core.ab -> com.google.ar.core.c:
+com.google.ar.core.ac -> com.google.ar.core.d:
+com.google.ar.core.ad -> com.google.ar.core.e:
+com.google.ar.core.ae -> com.google.ar.core.f:
+com.google.ar.core.af -> com.google.ar.core.g:
+com.google.ar.core.ag -> com.google.ar.core.h:
+com.google.ar.core.ah -> com.google.ar.core.i:
+com.google.ar.core.ai -> com.google.ar.core.j:
+com.google.ar.core.aj -> com.google.ar.core.k:
+com.google.ar.core.ak -> com.google.ar.core.l:
+com.google.ar.core.al -> com.google.ar.core.m:
+com.google.ar.core.am -> com.google.ar.core.n:
+com.google.ar.core.an -> com.google.ar.core.o:
+com.google.ar.core.ao -> com.google.ar.core.p:
+com.google.ar.core.ap -> com.google.ar.core.q:
+com.google.ar.core.aq -> com.google.ar.core.r:
+com.google.ar.core.ar -> com.google.ar.core.s:
+com.google.ar.core.as -> com.google.ar.core.t:
+com.google.ar.core.at -> com.google.ar.core.u:
+com.google.ar.core.au -> com.google.ar.core.v:
+com.google.ar.core.av -> com.google.ar.core.w:
+com.google.ar.core.b -> com.google.ar.core.x:
+com.google.ar.core.c -> com.google.ar.core.y:
+com.google.ar.core.d -> com.google.ar.core.z:
+com.google.ar.core.e -> com.google.ar.core.A:
+com.google.ar.core.f -> com.google.ar.core.B:
+com.google.ar.core.g -> com.google.ar.core.C:
+com.google.ar.core.h -> com.google.ar.core.D:
+    com.google.ar.core.h b -> a
+    java.lang.Exception a -> b
+com.google.ar.core.i -> com.google.ar.core.E:
+com.google.ar.core.j -> com.google.ar.core.F:
+com.google.ar.core.k -> com.google.ar.core.G:
+com.google.ar.core.l -> com.google.ar.core.H:
+com.google.ar.core.m -> com.google.ar.core.I:
+com.google.ar.core.n -> com.google.ar.core.J:
+com.google.ar.core.o -> com.google.ar.core.K:
+com.google.ar.core.p -> com.google.ar.core.L:
+com.google.ar.core.q -> com.google.ar.core.M:
+com.google.ar.core.s -> com.google.ar.core.N:
+com.google.ar.core.t -> com.google.ar.core.O:
+com.google.ar.core.u -> com.google.ar.core.P:
+    android.content.Context b -> a
+    com.google.ar.core.ArCoreApk$a a -> b
+com.google.ar.core.v -> com.google.ar.core.Q:
+com.google.ar.core.w -> com.google.ar.core.S:
+com.google.ar.core.x -> com.google.ar.core.T:
+com.google.ar.core.y -> com.google.ar.core.U:
+com.google.ar.core.z -> com.google.ar.core.V:
